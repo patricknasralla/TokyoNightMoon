@@ -1,0 +1,21 @@
+{
+  "name": "tokyo-night-moon",
+  "displayName": "Tokyo Night Moon",
+  "description": "vscode version of folke's NeoVim theme, based on the original Tokyo Night theme by enkia",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Night Moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo Night Moon-color-theme.json"
+      }
+    ]
+  }
+}
