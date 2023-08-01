@@ -2,7 +2,12 @@
   "name": "tokyo-night-moon",
   "displayName": "Tokyo Night Moon",
   "description": "vscode version of folke's NeoVim theme, based on the original Tokyo Night theme by enkia",
-  "version": "1.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patricknasralla/TokyoNightMoon.git"
+  },
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.80.0"
   },
