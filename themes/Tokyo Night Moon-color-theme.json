@@ -93,9 +93,9 @@
     "sideBar.dropBackground": "#1e202e",
     "list.dropBackground": "#1e202e",
     "list.deemphasizedForeground": "#787c99",
-    "list.activeSelectionBackground": "#1c1d29",
+    "list.activeSelectionBackground": "#14141b",
     "list.activeSelectionForeground": "#828bb8",
-    "list.inactiveSelectionBackground": "#1c1d29",
+    "list.inactiveSelectionBackground": "#14141b",
     "list.inactiveSelectionForeground": "#828bb8",
     "list.focusBackground": "#1c1d29",
     "list.focusForeground": "#828bb8",
@@ -349,7 +349,7 @@
     "notificationsWarningIcon.foreground": "#bba461",
     "notificationsInfoIcon.foreground": "#0da0ba",
     "menubar.selectionForeground": "#828bb8",
-    "menubar.selectionBackground": "#1e202e",
+    "menubar.selectionBackground": "#14141b",
     "menubar.selectionBorder": "#1b1e2e",
     "menu.foreground": "#787c99",
     "menu.background": "#1e2030",
@@ -378,6 +378,23 @@
       ],
       "settings": {
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Italic reset, mainly for the operators",
+      "scope": [
+        "keyword.operator",
+        "keyword.other.type",
+        "storage.modifier.import",
+        "storage.modifier.package",
+        "storage.type.built-in",
+        "storage.type.function.arrow",
+        "storage.type.generic",
+        "storage.type.java",
+        "storage.type.primitive"
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {

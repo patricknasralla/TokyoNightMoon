@@ -1,9 +1,16 @@
 # Change Log
 
+## [1.1.4]
+
+- Tweaked Bold and Italic Settings again, needed to reset a few italicized elements.
+- Further tweaked List Backgrounds to make them generally more visible...
+
+
 ## [1.1.3]
 
 - Tweaked Bold and Italic Settings.
 - Updated Colorized brackets to be a little more subtle.
+- Changed list active backgrounds to be more visible.
 - General cleanup.
 
 ## [1.1.2]
