@@ -1,9 +1,11 @@
 # Change Log
 
-All notable changes to the "tokyo-night-moon" extension will be documented in this file.
+## [1.1.0]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Updated Black in Popout menus to be less dark. For example, Find References.
+- Removed some unnecessary template files and updated readme.
+- First release on the marketplace.
 
-## [Unreleased]
+## [1.0.0]
 
 - Initial release
