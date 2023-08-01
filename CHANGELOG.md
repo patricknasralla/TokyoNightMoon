@@ -1,10 +1,15 @@
 # Change Log
 
-## [1.1.0]
+## [1.1.2]
+
+- Added Publisher to package.json
+- First release on the marketplace.
+
+
+## [1.1.1]
 
 - Added license.
 - Updated readme with sample screenshot.
-- First release on the marketplace.
 
 ## [1.1.0]
 

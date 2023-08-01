@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/patricknasralla/TokyoNightMoon.git"
   },
+  "publisher": "PatrickNasralla",
   "version": "1.1.1",
   "engines": {
     "vscode": "^1.80.0"
