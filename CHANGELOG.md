@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.3]
+
+- Tweaked Bold and Italic Settings.
+- Updated Colorized brackets to be a little more subtle.
+- General cleanup.
+
 ## [1.1.2]
 
 - Added Publisher to package.json
